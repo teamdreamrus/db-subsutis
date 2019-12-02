@@ -1,0 +1,2 @@
+1 | Alexey | nsk | asdfad | 05-05-1996 | ya@ya.ru | 
+2 | IVAN | NEW_YORK | TUT | 11-12-1995 | mail@mail.ru | 
